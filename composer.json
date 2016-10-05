@@ -1,0 +1,19 @@
+{
+    "name": "nady/login_register",
+    "description": "Login/Register System Sample project for the propriete way to do so.",
+    "type": "PHP",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "nady shalaby",
+            "email": "nady80878@gmail.com"
+        }
+    ],
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "Classes\\": "classes/"
+        }
+    }
+}
